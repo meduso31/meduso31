@@ -1,0 +1,3 @@
+Avec un editeur simple (notepad++, gedit etc), creez un fichier texte contenant au moins une
+dizaine de mots de votre choix (sans utiliser d accents), separe par des espaces, des
+tabulations ou des retours a la ligne.
